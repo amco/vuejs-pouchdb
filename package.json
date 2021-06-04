@@ -28,6 +28,6 @@
     "babel-preset-env": "^1.7.0"
   },
   "dependencies": {
-    "pouchdb": "^6.4.3"
+    "pouchdb": "^7.2.2"
   }
 }
